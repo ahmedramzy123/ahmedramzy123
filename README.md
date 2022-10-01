@@ -67,7 +67,7 @@
 
 <a href="mailto:amedramzy11345@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://github.com/ahmedramzy123"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="www.linkedin.com/in/ahmed-ramzy-flutter"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ahmed-ramzy-flutter"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
 </p>
 
