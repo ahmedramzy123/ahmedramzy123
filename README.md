@@ -49,15 +49,18 @@
 
 ## 👉 Skills 
 * MVVM
+* mvc
 * Clean artichture
 * Restful APIS (Dio)
 * Caching (sqflite - sharedpreferences) 
-* State management ( Bloc )
+* State management ( Bloc ,getx)
 * SDK
 * Firebase ( auth - realtime - messaging - storage - analitics - in app message - Admob )
 * OOP
 * Solid
 * Github
+* google maps
+* payment
 
 <br/>
 
